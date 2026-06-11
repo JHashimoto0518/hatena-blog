@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "glob": "^11.1.0",
-    "textlint": "^14.2.0",
+    "textlint": "^15.7.1",
     "textlint-rule-preset-ja-spacing": "^2.4.3"
   }
 }
